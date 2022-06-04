@@ -1,0 +1,22 @@
+.heroBanner {
+    display: flex;
+}
+.titleCard img {
+    max-width: 600px;
+    height: auto;
+    display: flex;
+}
+.heroBanner .titleCard h1 {
+    font-size: 36px;
+    justify-content: center;
+    align-items: center;
+}
+.titleCard {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.cardImg {
+    flex-direction: column;
+}
